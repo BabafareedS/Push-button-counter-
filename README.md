@@ -16,3 +16,5 @@ The project demonstrated here is a Push Button Counter using Arduino UNO, a simp
 
 OUTPUT :
 
+<img width="1920" height="573" alt="Image" src="https://github.com/user-attachments/assets/fc902025-890f-4751-8d0a-c031db7eb47e" />
+
